@@ -1,3 +1,3 @@
 # Othello-Reversi-
 
-Just a normal Othello(Reversi) game!
+Just a reversesi game using python's numpy and pandas!
