@@ -1,4 +1,3 @@
 # Othello-Reversi-
 
-Just a normal Othello(Reversi) game
-Enjoy!
+Just a normal Othello(Reversi) game!
