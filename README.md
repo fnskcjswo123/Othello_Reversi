@@ -1,4 +1,4 @@
-# Othello\Reversi
+# Othello_Reversi
 <br></br>
 Just a reversesi game using python's numpy and pandas!
 <br></br>
