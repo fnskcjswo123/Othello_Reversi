@@ -3,7 +3,7 @@
 Othello(or called Reversi) made with Python Numpy & Pandas
 
 ## ENG
-Just a reversesi game using python's numpy and pandas!
+Just a Reversi(Othello) game using python's numpy and pandas!
 <br></br>
 This code will work on most Python versions
 <br></br>
