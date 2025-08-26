@@ -1,6 +1,6 @@
 ### Othello_Reversi
 
-Othello or called Reversi wrote with Python Numpy & Pandas
+Othello(or called Reversi) made with Python Numpy & Pandas
 
 ## ENG
 Just a reversesi game using python's numpy and pandas!
